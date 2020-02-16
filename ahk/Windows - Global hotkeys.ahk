@@ -50,6 +50,8 @@ Return
 
 ;########## F23 - dislike music track
 ;^!-::F23 ; ctrl alt -
+F23::^!- ; ctrl alt -
 
 ;########## F24 - like music track
 ;^!=::F24 ; ctrl alt = (+)
+F24::^!= ; ctrl alt = (+)
